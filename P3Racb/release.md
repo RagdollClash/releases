@@ -1,0 +1,1 @@
+Drag and drop the `CueSheet` folder onto the program.
